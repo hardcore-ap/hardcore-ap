@@ -1,16 +1,36 @@
-## Hi there 👋
+### 👋 Hi there, I'm Aritra Pramanik
 
-<!--
-**hardcore-ap/hardcore-ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a passionate full-stack developer and creative technologist.  
+🚀 I love building unique, fun, and useful web projects using **JavaScript**, **Node.js**, **HTML/CSS**, and AI tools like **OpenAI**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack I Work With:
+- 🌐 Frontend: HTML, CSS, JavaScript, Tailwind, React
+- 🛠 Backend: Node.js, Express.js, REST APIs
+- 📦 Databases: MongoDB, Firebase
+- 🤖 AI Tools: OpenAI GPT & Vision APIs, LangChain, Whisper
+
+---
+
+### 🧠 Projects You Should Check Out
+- 🎶 [Weather & Mood-Based Music Recommender]
+  Recommends playlists based on your city’s weather and your mood  
+- 📸 [AI Image Captioning App]
+  Upload an image and get a poetic description using GPT-4 Vision  
+- 💬 Real-Time Chat Room with Emoji Reactions (Coming soon!)
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)
+
+---
+
+### 📬 Connect with Me
+- 🧠 [LinkedIn](https://www.linkedin.com/in/aritra-pramanik-544aa2218/)
+- 🌐 [Portfolio Website](https://yourportfolio.site)
+
+---
+
+> “Code is like poetry – it’s better when it flows.” ✨
